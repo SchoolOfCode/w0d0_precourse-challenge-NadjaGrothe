@@ -1,0 +1,74 @@
+h1 {
+    font-size: 45px;
+    font-family: monospace;
+    color: #FFCB9A;
+  }
+  
+  #title{
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /*sub title*/
+  h3 {
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+    font-style: italic; 
+    color: #D1E8E2;
+    }
+  
+  #image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    }
+  
+  figcaption{
+    font-size: 15px;
+    font-style: italic; 
+    color: #D1E8E2;
+    text-align: right;
+    margin-top: 2px;
+    }
+  
+  #tribute-info{
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 25px;
+    font-family: monospace;
+    color: #FFCB9A;
+  }
+  
+  main {
+    background: #116466;
+  }
+  
+  
+  .container {
+    font-size: 15px;
+    font-family: monospace;
+    color: #D1E8E2;
+    border-style: solid;  
+    border-radius: 25px;
+    border-width: 1px;
+    padding: 20px;
+    background: #2C3531;
+    width: 47%;
+    height: 325px;
+    min-height: 100%;
+    margin: 5px;
+    }
+  
+  
+  footer {
+    clear: both;
+    text-align: center;
+    padd
+    font-size: 15px;
+    font-family: monospace;
+    color: #D1E8E2;
+  }
