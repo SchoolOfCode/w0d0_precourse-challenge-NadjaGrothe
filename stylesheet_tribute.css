@@ -1,7 +1,7 @@
 h1 {
     font-size: 45px;
-    font-family: monospace;
-    color: #FFCB9A;
+    font-family: Raleway, monospace;
+    color: #bd2e14;
   }
   
   #title{
@@ -12,10 +12,10 @@ h1 {
   /*sub title*/
   h3 {
     font-size: 20px;
-    font-family: monospace;
+    font-family: Raleway, monospace;
     text-align: center;
     font-style: italic; 
-    color: #D1E8E2;
+    color: #b1ae9c;
     }
   
   #image{
@@ -26,13 +26,13 @@ h1 {
     border-style: solid;  
     border-radius: 25px;
     border-width: medium;
-    border-color: antiquewhite;
+    border-color: #e4ae41;
     }
   
   figcaption{
     font-size: 15px;
     font-style: italic; 
-    color: #D1E8E2;
+    color: #b1ae9c;
     text-align: right;
     margin-top: 2px;
     }
@@ -43,12 +43,13 @@ h1 {
   
   h2 {
     font-size: 25px;
-    font-family: monospace;
-    color: #FFCB9A;
+    font-family: Raleway, monospace;
+    color: #89210b;
+    text-align: center;
   }
   
   main {
-    background: #116466;
+    background: black;
   }
   
 .flexbox {
@@ -64,39 +65,27 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: stretch;
-    justify-content: space-around;
+    justify-content: top;
     font-size: 15px;
-    font-family: monospace;
-    color: #D1E8E2;
+    font-family: Raleway, monospace;
+    font-weight: bolder;
+    color: black;
     border-style: solid;  
     border-radius: 25px;
     border-width: medium;
-    border-color: antiquewhite;
-    padding: 1em;
-    background: #2C3531;
+    border-color: #e4ae41;
+    padding: 0.5em;
+    background: #f2eed8;
     height: auto;
     margin: 0.5em;
     float: left;
+    line-height: 1.5;
     }
-  
-  .child {
-    color: #D1E8E2;
-    border-style: solid;  
-    border-radius: 25px;
-    border-width: medium;
-    border-color: antiquewhite;
-    padding: 1em;
-    background: #2C3531;
-    height: auto;
-    margin: 0.5em;
-    min-height: 100%;
-    float: right;
-  }
   
   footer {
     clear: both;
     text-align: center;
     font-size: 15px;
-    font-family: monospace;
-    color: #D1E8E2;
+    font-family: Raleway, monospace;
+    color: #f2eed8;
   }
